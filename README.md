@@ -1,4 +1,4 @@
 # first-demo
 this is my first repository.
 <br>
-Author : Somnath tiwari
+Author : Somnath tiwari (first)
